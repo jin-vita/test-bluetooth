@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.bluetoothtest'
+    namespace 'com.example.testbluetooth'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.bluetoothtest"
+        applicationId "com.example.testbluetooth"
         minSdk 22
         targetSdk 33
         versionCode 1

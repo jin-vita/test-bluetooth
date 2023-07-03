@@ -1,4 +1,4 @@
-package com.example.bluetoothtest
+package com.example.testbluetooth
 
 import android.Manifest
 import android.bluetooth.BluetoothAdapter
@@ -9,7 +9,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.example.bluetoothtest.databinding.ActivityMainBinding
+import com.example.testbluetooth.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
